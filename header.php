@@ -60,7 +60,7 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="dist/img/eu-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="dist/img/eu1.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
           <a href="https://www.instagram.com/junior_odri/?hl=pt-br" class="d-block">Juvenal</a>
