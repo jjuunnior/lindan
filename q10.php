@@ -56,11 +56,13 @@
     </section>
     </section>
   </div>
-
+      
+  </div>
+</div>
   </body>
 </html>
 
-
+<?php include "footer.php"; ?>
 
 
     
