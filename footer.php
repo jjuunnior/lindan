@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Seu Nome <a href="http://adminlte.io"><i class="fab fa-github"></i></a></strong>
+    <strong>Juvenal <a href="https://github.com/jjuunnior/lindan.git"><i class="fab fa-github"></i></a></strong>
     
 </footer>
 
