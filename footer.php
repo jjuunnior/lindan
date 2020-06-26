@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Juvenal <a href="https://github.com/jjuunnior/lindan.git"><i class="fab fa-github"></i></a></strong>
+    <strong>Juvenal <a href="https://github.com/jjuunnior/lindan.git"><a target="_blank" href="https://github.com/jjuunnior/lindan.git">GitHub</a></a></strong>
     
 </footer>
 
